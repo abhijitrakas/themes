@@ -4250,3 +4250,7 @@ a {
 | Instagram embed style below.
 |
 */
+.wp-block-embed-instagram amp-instagram {
+	border: 1px solid #dbdbdb;
+	border-radius: 3px;
+}
